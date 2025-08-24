@@ -1,6 +1,6 @@
 # read-me
 <h1 align="center">Hi 👋, I'm Akshansh dani</h1>
-<h3 align="center">a frontend dev from india</h3>
+<h3 align="center">A frontend developer from india</h3>
 
 - 🌱 I’m currently learning **java**
 
